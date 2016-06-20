@@ -30,3 +30,8 @@ function seqtrd_env()
 source /home/data/madlab/envs/.env/.seqtrd_environment
 }
 
+function dev_env()
+{
+source /home/data/madlab/envs/.env/.dev_environment
+}
+
